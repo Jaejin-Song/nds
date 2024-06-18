@@ -1,0 +1,11 @@
+{
+  "sts-template": {
+    "prefix": "sts-template",
+    "body": [
+      "<script setup lang='ts'></script>",
+      "<template>$1</template>",
+      "<style lang='scss' scoped></style>",
+    ],
+    "description": "sts-template",
+  },
+}
